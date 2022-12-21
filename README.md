@@ -1,7 +1,6 @@
-##Pathfinding Visualiser
+# Pathfinding Visualiser
 
-#The grid takes in the start and end node with a array of walls and we visualise the complete path
-
-
+Pathfinding Visualiser takes in a start and end node and then creates shortest path.
 
 
+[MIT](https://choosealicense.com/licenses/mit/)
